@@ -6,7 +6,9 @@
     "provider": "OpenAI built-in image generation",
     "style": "Original Japanese galgame character illustration with restrained painterly cel shading and 1950s Japanese clothing.",
     "constraints": ["SFW", "no logos", "no text", "no watermark", "no blood or gore", "original designs"],
-    "reference_notes": "Atmosphere and setting were checked against the official Shiravune overview of The Shell / 壳之少女; no official character image was used as an image input or copied.",
+    "reference_notes": "Visual direction was checked against the official Shiravune product presentation for The Shell / 壳之少女: 1956 Tokyo noir, restrained dark palette, delicate melancholic linework, and period-appropriate clothing. No official character image was used as an image input or copied.",
+    "visual_profile": "1956 Tokyo noir visual-novel reinterpretation: muted black, charcoal, ivory, and dusty burgundy; restrained cel shading; delicate ink-like contours; elegant melancholy; period-appropriate Japanese clothing; original designs only.",
+    "background": "transparent-alpha",
     "reference_url": "https://shiravune.com/zh-cn/archives/4412"
   },
   "portraits": [
