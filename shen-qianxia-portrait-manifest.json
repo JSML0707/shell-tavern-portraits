@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "created_at": "2026-08-25",
+  "purpose": "Original SFW full-body character standees for the Shen Qianxia relationship-scene SillyTavern UI.",
+  "generation": {
+    "provider": "OpenAI built-in image generation",
+    "style": "Original contemporary East Asian visual-novel illustration with delicate linework and restrained painterly cel shading.",
+    "constraints": ["SFW", "age-appropriate", "no logos", "no text", "no watermark", "original designs"],
+    "visual_profile": "Contemporary Beijing psychological drama: ivory, pale blue, charcoal, camel and dusty burgundy; polished full-body game standees; natural anatomy.",
+    "background": "transparent-alpha",
+    "background_cleanup": "Edge-connected checkerboard flood fill with ImageMagick; RGBA and dark-background contact sheet verified."
+  },
+  "portraits": [
+    {"character_id":"shen_qianxia","name":"沈千夏","file":"portraits/shen-qianxia/sqx_shen_qianxia.png"},
+    {"character_id":"shen_mo","name":"沈默","file":"portraits/shen-qianxia/sqx_shen_mo.png"},
+    {"character_id":"su_mo","name":"苏茉","file":"portraits/shen-qianxia/sqx_su_mo.png"},
+    {"character_id":"lu_shian","name":"陆时安","file":"portraits/shen-qianxia/sqx_lu_shian.png"},
+    {"character_id":"lu_shiwei","name":"陆时微","file":"portraits/shen-qianxia/sqx_lu_shiwei.png"},
+    {"character_id":"lu_shiyan","name":"陆时砚","file":"portraits/shen-qianxia/sqx_lu_shiyan.png"},
+    {"character_id":"lu_qinghua","name":"陆清华","file":"portraits/shen-qianxia/sqx_lu_qinghua.png"},
+    {"character_id":"lu_shining","name":"陆时宁","file":"portraits/shen-qianxia/sqx_lu_shining.png"},
+    {"character_id":"liu_ying","name":"柳盈","file":"portraits/shen-qianxia/sqx_liu_ying.png"},
+    {"character_id":"gu_baizhi","name":"顾白芷","file":"portraits/shen-qianxia/sqx_gu_baizhi.png"}
+  ]
+}
