@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "created_at": "2026-08-25",
+  "purpose": "Original full-body character standees for the Shen Qianxia relationship-scene SillyTavern UI, second art-direction release.",
+  "generation": {
+    "provider": "OpenAI built-in image generation",
+    "style": "Original Japanese psychological-mystery visual-novel illustration with compact proportions, fine linework, flat cel shading and highly individualized fashion silhouettes.",
+    "constraints": ["SFW", "age-appropriate", "no logos", "no text", "no watermark", "original designs"],
+    "visual_profile": "Theme-driven character palettes, doll-like costume detailing, restrained expressions and distinctive asymmetric poses.",
+    "background": "transparent-alpha",
+    "background_cleanup": "Edge-connected checkerboard flood fill with ImageMagick; RGBA and dark-background contact sheet verified."
+  },
+  "portraits": [
+    {"character_id":"shen_qianxia","name":"沈千夏","file":"portraits/shen-qianxia-v2/sqx_shen_qianxia-v2.png"},
+    {"character_id":"shen_mo","name":"沈默","file":"portraits/shen-qianxia-v2/sqx_shen_mo-v2.png"},
+    {"character_id":"su_mo","name":"苏茉","file":"portraits/shen-qianxia-v2/sqx_su_mo-v2.png"},
+    {"character_id":"lu_shian","name":"陆时安","file":"portraits/shen-qianxia-v2/sqx_lu_shian-v2.png"},
+    {"character_id":"lu_shiwei","name":"陆时微","file":"portraits/shen-qianxia-v2/sqx_lu_shiwei-v2.png"},
+    {"character_id":"lu_shiyan","name":"陆时砚","file":"portraits/shen-qianxia-v2/sqx_lu_shiyan-v2.png"},
+    {"character_id":"lu_qinghua","name":"陆清华","file":"portraits/shen-qianxia-v2/sqx_lu_qinghua-v2.png"},
+    {"character_id":"lu_shining","name":"陆时宁","file":"portraits/shen-qianxia-v2/sqx_lu_shining-v2.png"},
+    {"character_id":"liu_ying","name":"柳盈","file":"portraits/shen-qianxia-v2/sqx_liu_ying-v2.png"},
+    {"character_id":"gu_baizhi","name":"顾白芷","file":"portraits/shen-qianxia-v2/sqx_gu_baizhi-v2.png"}
+  ]
+}

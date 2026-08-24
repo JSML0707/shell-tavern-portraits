@@ -12,6 +12,9 @@ https://cdn.jsdelivr.net/gh/JSML0707/shell-tavern-portraits@<commit>/portraits/<
 The image files are public assets. The accompanying `portrait-manifest.json`
 contains the character ID and filename mapping used by the card build.
 
-The Shen Qianxia card uses the separate `shen-qianxia-portrait-manifest.json`
-and assets under `portraits/shen-qianxia/`. Consumers must likewise pin these
-files to an immutable commit URL.
+The Shen Qianxia card has two non-destructive portrait releases. The original
+set uses `shen-qianxia-portrait-manifest.json` and
+`portraits/shen-qianxia/`. The second, more theatrical Japanese mystery-VN set
+uses `shen-qianxia-v2-portrait-manifest.json` and
+`portraits/shen-qianxia-v2/`. Consumers must pin either release to an immutable
+commit URL.
